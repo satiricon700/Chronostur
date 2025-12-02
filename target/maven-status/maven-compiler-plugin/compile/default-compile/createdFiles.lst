@@ -1,0 +1,5 @@
+com\chronostur\chronostur\config\DatabaseConfig.class
+com\chronostur\chronostur\dao\ClienteDao.class
+com\chronostur\chronostur\model\Cliente.class
+com\chronostur\chronostur\App.class
+com\chronostur\chronostur\dao\ClienteDaoImpl.class
